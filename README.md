@@ -1,3 +1,6 @@
+
+[transcript_to_article_skill.md](https://github.com/user-attachments/files/26203765/transcript_to_article_skill.md)
+
 # 转录稿编译为文章 Skill
 
 将飞书妙记或其他工具导出的语音转文字稿，编译为结构完整的中文文章，输出为 Word 文档（.docx）。
